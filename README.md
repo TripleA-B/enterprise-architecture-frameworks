@@ -11,5 +11,15 @@ These three framework represent an orderly approach to align business goals and 
 ![Technology Strategy Evaluation Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0012.jpg)
 
 ## Assessments Framework
+![Assessments Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0001.jpg)
+![Assessments Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0003.jpg)
+![Assessments Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0004.jpg)
 
 ## Proof of Concept Framework
+![Proof of Concept Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0005.jpg)
+![Proof of Concept Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0006.jpg)
+![Proof of Concept Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0007.jpg)
+![Proof of Concept Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0008.jpg)
+![Proof of Concept Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0009.jpg)
+![Proof of Concept Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0010.jpg)
+![Proof of Concept Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0011.jpg)
