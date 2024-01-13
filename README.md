@@ -7,8 +7,9 @@ Enterprise Architecture (EA) frameworks are systematic, structured approaches us
 
 These three framework represent an orderly approach to align business goals and strategies to technology strategy and then evaluate the effectiveness with a proof of concept.
 
-## Assessments Framework
-
 ## Technology Strategy Evaluation Framework
+![Technology Strategy Evaluation Framework](https://github.com/TripleA-B/enterprise-architecture-frameworks/blob/main/images/0012.jpg)
+
+## Assessments Framework
 
 ## Proof of Concept Framework
